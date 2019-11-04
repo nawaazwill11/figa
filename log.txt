@@ -1,0 +1,12 @@
+Searching for files in /home/walker/workspace/python/figa/images
+1. /home/walker/workspace/python/figa/images/k-logo.png
+2. /home/walker/workspace/python/figa/images/scroll-up-2.png
+3. /home/walker/workspace/python/figa/images/kip-black.png
+4. /home/walker/workspace/python/figa/images/cross.png
+5. /home/walker/workspace/python/figa/images/python.png
+6. /home/walker/workspace/python/figa/images/institute.png
+7. /home/walker/workspace/python/figa/images/ham.png
+8. /home/walker/workspace/python/figa/images/kip-logo-min.png
+9. /home/walker/workspace/python/figa/images/scroll-up.png
+Total files discovered 9
+Search completed on 04/11/2019 16:36:56

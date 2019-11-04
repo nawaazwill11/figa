@@ -1,0 +1,5 @@
+1. Scall size only to preview window frame size
+2. Make only one preview window open once
+3. Add other images in preview window. xview scrollable.
+4. Load the window once and hide by default.
+5. Open selected image in the main view of preview window. Do no reopen. Open in already opened preview window.
